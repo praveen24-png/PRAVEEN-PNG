@@ -1,3 +1,5 @@
+The badges are not loading due to shields.io being slow. Let me give you the complete fixed README — just replace everything with this:
+
 Hi there, I'm Praveen P 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Vite+%2B+Node.js+%2B+MySQL;ERP+Systems+Builder;SAP+ABAP+Developer;Manual+Tester" alt="Typing SVG" />
@@ -13,16 +15,9 @@ Hi there, I'm Praveen P 👋
 
 
 🛠️ Tech Stack
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+React 18   Vite   JavaScript   Node.js   MySQL   HTML5   CSS3   SAP ABAP   Git   GitHub
+
 
 🏗️ Featured Project
 UCT ERP — MBBS College Enterprise Resource Planning System
@@ -45,10 +40,12 @@ Full Stack Developer (Frontend + Backend)
 </p>
 
 📫 Connect With Me
-Show Image
-Show Image
-Show Image
-Show Image
+
+💼 LinkedIn
+🌐 Portfolio
+🐙 GitHub
+✉️ Email
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveen24-png&color=6ee7b7&style=flat-square&label=Profile+Views" alt="Profile Views" />
