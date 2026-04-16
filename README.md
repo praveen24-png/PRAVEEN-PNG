@@ -1,5 +1,3 @@
-The badges are not loading due to shields.io being slow. Let me give you the complete fixed README — just replace everything with this:
-
 Hi there, I'm Praveen P 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Vite+%2B+Node.js+%2B+MySQL;ERP+Systems+Builder;SAP+ABAP+Developer;Manual+Tester" alt="Typing SVG" />
